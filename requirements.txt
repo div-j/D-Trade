@@ -1,0 +1,1 @@
+express mongoose dotenv bcryptjs jsonwebtoken express-async-handler multer body-parser
